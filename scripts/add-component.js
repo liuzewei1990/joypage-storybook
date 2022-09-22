@@ -50,8 +50,8 @@ function registerComponent() {
     `export { default as ${componentName} } from \'./${componentName}\';\n`,
   );
   fs.appendFileSync(
-    path.resolve(__dirname, '../components/index.css'),
-    `@import \'./${componentName}/style/index.css\';\n`,
+    path.resolve(__dirname, '../components/index.less'),
+    `@import \'./${componentName}/style/index.less\';\n`,
   );
 }
 
