@@ -1,9 +1,9 @@
 <template>
-  <section>DemoComponent</section>
+  <section>Cell</section>
 </template>
 
 <script>
 export default{
-  name: 'DemoComponent'
+  name: 'Cell'
 };
 </script>

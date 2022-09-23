@@ -1,9 +1,9 @@
 <template>
-  <section>TestComponent</section>
+  <section>Buttonxxxxx</section>
 </template>
 
 <script>
 export default{
-  name: 'TestComponent'
+  name: 'Button'
 };
 </script>

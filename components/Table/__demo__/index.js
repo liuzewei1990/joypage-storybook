@@ -1,6 +1,6 @@
 /**
  * @file
- * @title DemoComponent
+ * @title Table
  * @memberOf 组件类型，例如：数据输入
  * @description 描述你的组件。
  */

@@ -1,13 +1,13 @@
 <template>
-  <TestComponent></TestComponent>
+  <Table></Table>
 </template>
 
 <script>
-import TestComponent from '../component.vue';
+import Table from '../component.vue';
 export default {
   name: 'BasicDemo',
   components: {
-    TestComponent,
+    Table,
   },
 };
 </script>

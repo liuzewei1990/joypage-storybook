@@ -1,13 +1,13 @@
 <template>
-  <DemoComponent></DemoComponent>
+  <Button></Button>
 </template>
 
 <script>
-import DemoComponent from '../component.vue';
+import Button from '../component.vue';
 export default {
   name: 'BasicDemo',
   components: {
-    DemoComponent,
+    Button,
   },
 };
 </script>
