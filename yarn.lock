@@ -7843,6 +7843,14 @@ joi@^17.4.0:
     "@sideway/formula" "^3.0.0"
     "@sideway/pinpoint" "^2.0.0"
 
+joypage-create-component@^1.0.13:
+  version "1.0.13"
+  resolved "https://registry.npmmirror.com/joypage-create-component/-/joypage-create-component-1.0.13.tgz#c9244774c12e25be6fc050b5bd5e8f250f797b25"
+  integrity sha512-NwwK2RFth+2j+U/BrZyPnGoeWe85kvv4fZ0zcVBnWv4fNgEtv0Hd/CYuOwSTLui8FyVB6K75V21UIUwz0cgmiQ==
+  dependencies:
+    fast-glob "^3.2.7"
+    fs-extra "^9.1.0"
+
 js-message@1.0.7:
   version "1.0.7"
   resolved "https://registry.npmmirror.com/js-message/-/js-message-1.0.7.tgz#fbddd053c7a47021871bb8b2c95397cc17c20e47"

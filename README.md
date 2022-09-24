@@ -1,27 +1,28 @@
 # app
 
-## Project setup
+## 安装
 
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 创建一个新组件
 
 ```
-yarn serve
+yarn add:component Button
 ```
 
-### Compiles and minifies for production
+### 启动开发服务
+
+```
+yarn dev
+```
+
+### 打包组件库
 
 ```
 yarn build
-```
-
-### Lints and fixes files
-
-```
-yarn lint
+yarn build:watch 监听文件改动实时运行打包
 ```
 
 ### Customize configuration
