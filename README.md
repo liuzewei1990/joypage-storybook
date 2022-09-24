@@ -1,4 +1,4 @@
-# component
+# app
 
 ## Project setup
 
